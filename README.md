@@ -1,7 +1,8 @@
-# TechStudy_Docs
-Documentation &amp; Notes for Tech Studies
+# Ivan_TechStudy_Docs
+Documentation, Notes, and Write-ups for my Tech Studies.  
+All links point to files that are either hosted in this repo or my Notion view-only page(s).
 
-* [CISSP Notes](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7)
-* [CCSP Notes](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d)
-* [AWS-CCP Notes](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d)
+* [CISSP Notes](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7): Passed 3/31/21
+* [CCSP Notes](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d): Planning to Pass 6/21/21
+* [AWS-CCP Notes](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d): Passed 6/14/21
 * [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_TechStudy_Docs/blob/main/Business_Analysis_Training.pdf)
