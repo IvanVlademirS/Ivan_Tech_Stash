@@ -1,4 +1,4 @@
-# Ivan_TechStudy_Docs
+# Ivan_Tech_Documentation
 ### Documentation, Notes, and Write-ups for my Tech Experiences & Studies.  
 #### All links point to files that are either hosted in this repo or my Notion view-only page(s).  
   
