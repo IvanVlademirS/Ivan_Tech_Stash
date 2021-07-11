@@ -1,7 +1,7 @@
 #### Welcome to my Tech Documentation Repo, ❗❗ReadMe:
 <pre><code>Scroll Down to view Tables: Cloud Certs, InfoSec Certs, IT (non-cloud) Write-ups.
 Documentation, Notes, and Write-ups for my Tech Certifications, Experiences, Studies, and IT Labs (non-cloud).  
-All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s)</code></pre>
+All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s).</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h3 align="left">  ☁️| Cloud Certifications </h3>
