@@ -7,9 +7,10 @@ All links mainly point to files that are either hosted in Github or my Notion No
 <h3 align="left">  ☁️| Cloud Certifications </h3>
 
 | Status | Certification | Notes | Journey Write-up | Comments |
-|-------- | -------- | -------- | -------- | -------- |
-| TBD | **AWS-SAA**, *Q2 2021* | TBD | TBD | TBD |
-| ✔ | **AWS-CCP**, *pass 6/16/21* | [Notion Notebook](https://www.notion.so/AWS-CCP-Pass-6-16-21-820a9ad726b9490dac601540cb9e51af) | TBD | TBD |
+| -------- | -------- | -------- | -------- | -------- |
+| TBD | **CCSP**, *Q2-Q3 2021* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview), [CCSP Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | *request access to my CCSP google drive for additional resources, if needed* |
+| TBD | **AWS-SAA**, *Q2 2021* | [SAA Notion Notebook](https://www.notion.so/AWS-SAA-ee62db73aa8b49899f58b890eb428acc) | TBD | TBD |
+| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP Notion Notebook](https://www.notion.so/AWS-CCP-Pass-6-16-21-820a9ad726b9490dac601540cb9e51af) | TBD | TBD |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -17,8 +18,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Status | Certification | Notes | Journey Write-up | Comments |
 |-------- | -------- | -------- | -------- | -------- |
-| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *Please request access to my CISSP google drive for all my resources, if needed* |
-| TBD | **CCSP**, *Q2-Q3 2021* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview), [Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | TBD |
+| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *request access to my CISSP google drive for additional resources, if needed* |
 | ✔ | **CISA**, *pass 1/30/20* | TBD | TBD | TBD |
 | ✔ | **CDPSE**, *pass 1/30/20* | TBD | TBD | TBD |
 
