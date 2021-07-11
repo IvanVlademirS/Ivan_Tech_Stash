@@ -1,10 +1,10 @@
 # Ivan_Tech_Documentation ReadMe:
-<pre><code>Welcome to my Tech Documentation Repo.  
+<pre><code>Welcome to my Tech Documentation Repo. Scroll Down to view Info Tables.
 Documentation, Notes, and Write-ups for my Tech Certifications, Experiences, Studies, and IT Labs (non-cloud).  
 All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s)</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="left">  Cloud | Certifications </h3> <br>
+<h3 align="left">  Cloud | Certifications </h3>
 
 | Status | Certification | Notes | Journey Write-up | Comments |
 |-------- | -------- | -------- | -------- | -------- |
@@ -13,23 +13,27 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">  InfoSec | Certifications </h3> <br>
+<h3 align="left">  InfoSec | Certifications </h3> 
 
 | Status | Certification | Notes | Journey Write-up | Comments |
 |-------- | -------- | -------- | -------- | -------- |
-| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_TechStudy_Docs/blob/main/CISSP_Notes.md), [Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *Please request access to my CISSP google drive for all my resources, if needed* |
-| TBD | **CCSP**, *Q2-Q3 2021* | [Master Notes](https://github.com/IvanVlademirS/Ivan_TechStudy_Docs/blob/main/CCSP_Master_Notes_V2%20(5).pdf), [Akulos Notes](https://ccsp.alukos.com/index/overview), [Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | TBD |
+| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *Please request access to my CISSP google drive for all my resources, if needed* |
+| TBD | **CCSP**, *Q2-Q3 2021* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/InfoSec%20Certifications/CCSP_Master_Notes_V2%20(5).docx), [Akulos Notes](https://ccsp.alukos.com/index/overview), [Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | TBD |
 | ✔ | **CISA**, *pass 1/30/20* | TBD | TBD | TBD |
 | ✔ | **CDPSE**, *pass 1/30/20* | TBD | TBD | TBD |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">  IT (non-cloud) | Write-ups  </h3> <br>
+<h3 align="left">  IT (non-cloud) | Write-ups  </h3> 
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_TechStudy_Docs/blob/main/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
-| BlueTeam | [Network Defense Notes](https://github.com/IvanVlademirS/Ivan_TechStudy_Docs/blob/main/General%20Network%20Defense%20(1).pdf) | General Network Defense Best Practices | 
+| BlueTeam | [InfoSec Enterprise Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
+| BlueTeam | [Network Defense Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf) | General Network Defense Best Practices | 
+| IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
+| RedTeam - Lab | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/IT%20General%20Write-Ups/PentestingLabs1.pdf) | LABS: Pentesting Fundamentals | 
+| BlueTeam - Lab | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/IT%20General%20Write-Ups/networkdefense-labs.pdf) | LABS: Network Defense | 
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
