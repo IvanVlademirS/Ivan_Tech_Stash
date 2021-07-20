@@ -8,8 +8,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| Diagramming - Visio | [InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | Security Awareness | 
-| Diagramming - Visio | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details | 
+| Visio Diagram | [InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | Security Awareness | 
+| Visio Diagram | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details | 
 | BlueTeam | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
 | BlueTeam | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General Network Defense Best Practices | 
 | Lab: RedTeam | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
