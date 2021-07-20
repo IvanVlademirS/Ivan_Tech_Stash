@@ -8,11 +8,15 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| BlueTeam | [InfoSec Enterprise Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
-| BlueTeam | [Network Defense Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf) | General Network Defense Best Practices | 
+| Diagramming - Visio | [InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | Security Awareness | 
+| Diagramming - Visio | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details | 
+| BlueTeam | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
+| BlueTeam | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General Network Defense Best Practices | 
+| Lab: RedTeam | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
+| Lab: BlueTeam | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense | 
+| IT Business Analysis | [Business Write-up Sample](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/IT_Business%20Analysis%20Doc%20-%20EDI_sample%20(2).pdf) | EDI technology write-up | 
 | IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
-| RedTeam - Lab | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | LABS: Pentesting Fundamentals | 
-| BlueTeam - Lab | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | LABS: Network Defense | 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">  ☁️| Cloud Certifications </h3>
