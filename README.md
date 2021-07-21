@@ -8,6 +8,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
+| RedTeam | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics Write-up |
 | Visio Diagram | [InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | Security Awareness | 
 | Visio Diagram | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details | 
 | BlueTeam | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
