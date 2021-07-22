@@ -8,13 +8,13 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| RedTeam | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
-| Visio Diagram | [InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | Security Awareness | 
-| Visio Diagram | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details | 
-| BlueTeam | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
-| BlueTeam | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General Network Defense Best Practices | 
-| Lab: RedTeam | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
-| Lab: BlueTeam | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense | 
+| IT Diagramming | [Security Awareness InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | IT Security Awareness 1-pager, created in Visio | 
+| IT Diagramming | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details, all created in Visio | 
+| Blue Team | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices | 
+| Blue Team | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
+| Red Team | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
+| Lab: Red Team | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
+| Lab: Blue Team | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense | 
 | IT Business Analysis | [Business Write-up Sample](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/IT_Business%20Analysis%20Doc%20-%20EDI_sample%20(2).pdf) | EDI technology write-up | 
 | IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
 | IT Business Analysis | [Security Awareness Proposal](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Consultant_infosec-program-proposal_SchoolFinal.pdf) | Consultant write-up for security awareness proposal | 
