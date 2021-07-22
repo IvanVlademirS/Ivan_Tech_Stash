@@ -17,7 +17,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Lab: BlueTeam | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense | 
 | IT Business Analysis | [Business Write-up Sample](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/IT_Business%20Analysis%20Doc%20-%20EDI_sample%20(2).pdf) | EDI technology write-up | 
 | IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
-| IT Business Analysis | [Security Awareness Proposal](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Consultant write-up for security awareness proposal | 
+| IT Business Analysis | [Security Awareness Proposal](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Consultant_infosec-program-proposal_SchoolFinal.pdf) | Consultant write-up for security awareness proposal | 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
