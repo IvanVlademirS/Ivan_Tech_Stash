@@ -37,7 +37,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 |-------- | -------- | -------- | -------- | -------- |
 | ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *request access to my CISSP google drive for additional resources, if needed* |
 | ✔ | **CISA**, *pass 1/30/20* | TBD | TBD | TBD |
-| ✔ | **CDPSE**, *pass 1/30/20* | TBD | TBD | TBD |
+| ✔ | **CDPSE**, *pass 2/30/21* | TBD | TBD | TBD |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
