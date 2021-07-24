@@ -23,26 +23,25 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <h3 align="left">  ☁️| Cloud Certifications </h3>
 
-| Status | Certification | Notes | Journey Write-up | Comments |
+| Status | Certification | Notes | Badge Verification | Comments |
 | -------- | -------- | -------- | -------- | -------- |
-| TBD | **CCSP**, *Q2-Q3 2021* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview), [CCSP Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | *request access to my CCSP google drive for additional resources, if needed* |
-| TBD | **AWS-SAA**, *Q2 2021* | [SAA Notion Notebook](https://www.notion.so/AWS-SAA-ee62db73aa8b49899f58b890eb428acc) | TBD | TBD |
-| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP Notion Notebook](https://www.notion.so/AWS-CCP-Pass-6-16-21-820a9ad726b9490dac601540cb9e51af) | TBD | TBD |
+| Scheduled | **CCSP**, *08/25/21* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview), [CCSP Notion Notebook](https://www.notion.so/CCSP-Pass-7-21-21-2f1a057d8b1e40cab315c45e406d140d) | TBD | *request access to my CCSP google drive for additional resources, if needed* |
+| ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA Notion Notebook](https://www.notion.so/AWS-SAA-ee62db73aa8b49899f58b890eb428acc) | TBD | TBD |
+| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP Notion Notebook](https://www.notion.so/AWS-CCP-Pass-6-16-21-820a9ad726b9490dac601540cb9e51af) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | TBD |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">  🔐| InfoSec Certifications </h3> 
 
-| Status | Certification | Notes | Journey Write-up | Comments |
+| Status | Certification | Notes | Badge Verification | Comments |
 |-------- | -------- | -------- | -------- | -------- |
-| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | Journey Write-up TBD | *request access to my CISSP google drive for additional resources, if needed* |
-| ✔ | **CISA**, *pass 1/30/20* | TBD | TBD | TBD |
-| ✔ | **CDPSE**, *pass 2/30/21* | TBD | TBD | TBD |
+| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | [CISSP Badge](https://www.credly.com/badges/c8cc7ce4-f72e-4fb4-8688-701759b9ef54/public_url) | *request access to my CISSP google drive for additional resources, if needed* |
+| ✔ | **CISA**, *pass 1/30/20* | TBD | [CISA Badge](https://www.credly.com/badges/8e4ec363-b7ff-4735-99c4-06b30bc3737f/linked_in_profile) | TBD |
+| ✔ | **CDPSE**, *pass 2/30/21* | TBD | [CDPSE Badge](https://www.credly.com/badges/75cb56f1-73b9-48a9-95a0-80d484c5cb79/public_url) | TBD |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <h3 align="center">  <a href="#"><img alt="<3" src="http://ForTheBadge.com/images/badges/built-with-love.svg "></a></h3>
-
 
  
