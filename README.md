@@ -38,7 +38,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 |-------- | -------- | -------- | -------- | -------- |
 | ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://www.notion.so/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | [CISSP Badge](https://www.credly.com/badges/c8cc7ce4-f72e-4fb4-8688-701759b9ef54/public_url) | *request access to my CISSP google drive for additional resources, if needed* |
 | ✔ | **CISA**, *pass 1/30/20* | [Thor Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA_notes.pdf), [CISA Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA%20Study%20Guide.pdf) | [CISA Badge](https://www.credly.com/badges/8e4ec363-b7ff-4735-99c4-06b30bc3737f/linked_in_profile) | Used Hemang Doshi, ISACA QA&E + Ofiicial Manual |
-| ✔ | **CDPSE**, *pass 2/30/21* | TBD | [CDPSE Badge](https://www.credly.com/badges/75cb56f1-73b9-48a9-95a0-80d484c5cb79/public_url) | Used ISACA QA&E + Official Manual|
+| ✔ | **CDPSE**, *pass 3/30/21* | [CDPSE Study Plan](https://www.linkedin.com/pulse/how-i-prepared-my-cdpse-exam-veronica-rose-cisa-cdpse/) | [CDPSE Badge](https://www.credly.com/badges/75cb56f1-73b9-48a9-95a0-80d484c5cb79/public_url) | Used ISACA QA&E + Official Manual|
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
