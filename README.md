@@ -21,6 +21,11 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | IT Business Analysis | [Business Write-up Sample](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/IT_Business%20Analysis%20Doc%20-%20EDI_sample%20(2).pdf) | EDI technology write-up | 
 | IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
 | IT Business Analysis | [Security Awareness Proposal](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Consultant_infosec-program-proposal_SchoolFinal.pdf) | Consultant write-up for security awareness proposal | 
+| Google Training | [Networking](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_1-Networking%20Crash%20Course.pdf) | Google IT Crash Course - Networking | 
+| Google Training | [Operating Systems](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_2-Operating%20Systems%20Crash%20Course.pdf) | Google IT Crash Course - Operating Systems | 
+| Google Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
+| Google Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
+| Google Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
