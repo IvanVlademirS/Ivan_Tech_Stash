@@ -34,10 +34,10 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Status | Certification | Notes | Badge Verification | Comments |
 | -------- | -------- | -------- | -------- | -------- |
-| ✔ | **CCSP**, *pass 08/25/21* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview), [CCSP Notion Notebook](https://sky-packet-f2e.notion.site/CCSP-Exam-on-8-25-21-2f1a057d8b1e40cab315c45e406d140d) | [CCSP Badge](https://www.credly.com/badges/e737afbb-498a-443c-8cd8-3aae514198a2) | *request access to my CCSP google drive for additional resources, if needed* |
+| ✔ | **CCSP**, *pass 08/25/21* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview)| [CCSP Badge](https://www.credly.com/badges/e737afbb-498a-443c-8cd8-3aae514198a2) | *request access to my CCSP google drive for additional resources, if needed* |
 | 🔴 | **AWS-Security**, *in progress* | *in progress* | *in progress* | *in progress* |
-| ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA Notion Notebook](https://sky-packet-f2e.notion.site/AWS-SAA-PASS-6-24-21-ee62db73aa8b49899f58b890eb428acc) | [AWS-SAA Badge](https://www.credly.com/badges/19d348f4-d1d7-4509-9b8c-6823652cb2e0/public_url) | Used Adrian Cantrill Course, YouTube, Whitepapers, and Tutorials Dojo |
-| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP Notion Notebook](https://www.notion.so/AWS-CCP-Pass-6-16-21-820a9ad726b9490dac601540cb9e51af) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used TutorialsDojo + YouTube |
+| ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA T-Dojo Guide](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/) | [AWS-SAA Badge](https://www.credly.com/badges/19d348f4-d1d7-4509-9b8c-6823652cb2e0/public_url) | Used Adrian Cantrill Course, YouTube, Whitepapers, and Tutorials Dojo |
+| ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP T-Dojo Guide](https://tutorialsdojo.com/aws-certified-cloud-practitioner/) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used TutorialsDojo + YouTube |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Status | Certification | Notes | Badge Verification | Comments |
 |-------- | -------- | -------- | -------- | -------- |
-| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [CISSP Notion Notebook](https://sky-packet-f2e.notion.site/CISSP-Pass-3-31-21-ca177e6f156c465f81b78c1b3a3239d7) | [CISSP Badge](https://www.credly.com/badges/c8cc7ce4-f72e-4fb4-8688-701759b9ef54/public_url) | *request access to my CISSP google drive for additional resources, if needed* |
+| ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md)| [CISSP Badge](https://www.credly.com/badges/c8cc7ce4-f72e-4fb4-8688-701759b9ef54/public_url) | *request access to my CISSP google drive for additional resources, if needed* |
 | ✔ | **CISA**, *pass 1/30/20* | [Thor Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA_notes.pdf), [CISA Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA%20Study%20Guide.pdf) | [CISA Badge](https://www.credly.com/badges/8e4ec363-b7ff-4735-99c4-06b30bc3737f/linked_in_profile) | Used Hemang Doshi, ISACA QA&E + Ofiicial Manual |
 | ✔ | **CDPSE**, *pass 3/30/21* | [CDPSE Study Plan](https://www.linkedin.com/pulse/how-i-prepared-my-cdpse-exam-veronica-rose-cisa-cdpse/) | [CDPSE Badge](https://www.credly.com/badges/75cb56f1-73b9-48a9-95a0-80d484c5cb79/public_url) | Used ISACA QA&E + Official Manual|
 
