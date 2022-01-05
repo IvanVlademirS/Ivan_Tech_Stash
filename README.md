@@ -27,7 +27,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
-
+| Basics | [THM-PreSecurity Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">  ☁️| Cloud Certifications </h3>
