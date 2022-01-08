@@ -37,6 +37,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Status | Certification | Notes | Badge Verification | Comments |
 | -------- | -------- | -------- | -------- | -------- |
 | ✔ | **CCSP**, *pass 08/25/21* | [Master Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Akulos Notes](https://ccsp.alukos.com/index/overview)| [CCSP Badge](https://www.credly.com/badges/e737afbb-498a-443c-8cd8-3aae514198a2) | *request access to my CCSP google drive for additional resources, if needed* |
+| ✔ | **CCSK**, *pass 01/08/2022* | [CCSK Bundle](https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle) | TBD | Used CSSK Bundle with work Voucher |
 | 🔴 | **AWS-Security**, *in progress* | *in progress* | *in progress* | *in progress* |
 | ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA T-Dojo Guide](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/) | [AWS-SAA Badge](https://www.credly.com/badges/19d348f4-d1d7-4509-9b8c-6823652cb2e0/public_url) | Used Adrian Cantrill Course, YouTube, Whitepapers, and Tutorials Dojo |
 | ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP T-Dojo Guide](https://tutorialsdojo.com/aws-certified-cloud-practitioner/) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used TutorialsDojo + YouTube |
