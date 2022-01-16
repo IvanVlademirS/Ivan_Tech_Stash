@@ -29,8 +29,6 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
 | TryHAckMe | [THM-PreSecurity Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
 | TryHackMe | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics | 
-| Cloud | [AWS Audit Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Cloud_Audit_Academy_-_Cloud_Agnostic_Course.pdf) | AWS SkillBuilder: Cloud Audit Academy | 
-| Cloud | [AWS Security Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Security_Learning_Plan.pdf) | AWS SkillBuilder: Security Learning Plan | 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
