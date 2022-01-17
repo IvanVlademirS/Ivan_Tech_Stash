@@ -8,14 +8,14 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| IT Diagramming | [Security Awareness InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | IT Security Awareness 1-pager, created in Visio | 
-| IT Diagramming | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details, all created in Visio | 
-| PCI-DSS Mapping | [RACI + Project Plan](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PCIDSS_raci-plan_sample.xlsx) | PCI DSS Sample RACI + Project Plan (excel file, download to view) | 
 | Blue Team | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices - Frameworks & InfoSec Guidance | 
 | Blue Team | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
 | Blue Team | [Simple Playbook](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Simple_BlueTeam_Playbook.pdf)| General & Practical BlueTeam steps to take during an incident/situation |
 | Blue Team | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense |
 | Blue Team | [THM-PreSecurity Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
+| IT Diagramming | [Security Awareness InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | IT Security Awareness 1-pager, created in Visio | 
+| IT Diagramming | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details, all created in Visio | 
+| PCI-DSS Mapping | [RACI + Project Plan](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PCIDSS_raci-plan_sample.xlsx) | PCI DSS Sample RACI + Project Plan (excel file, download to view) | 
 | Red Team | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
 | Red Team | [Wireless Pentesting](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Wireless%20Assessment%20Practical%20Notes.pdf) | Wireless Assessment Practical Notes & Prep |
 | Red Team | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
