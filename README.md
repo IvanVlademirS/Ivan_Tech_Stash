@@ -15,9 +15,11 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Blue Team | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
 | Blue Team | [Simple Playbook](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Simple_BlueTeam_Playbook.pdf)| General & Practical BlueTeam steps to take during an incident/situation |
 | Blue Team | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense |
+| Blue Team | [THM-PreSecurity Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
 | Red Team | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
 | Red Team | [Wireless Pentesting](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Wireless%20Assessment%20Practical%20Notes.pdf) | Wireless Assessment Practical Notes & Prep |
 | Red Team | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
+| Red Team | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics | 
 | Linux  | [LA Linux](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/LPI%20Linux%20Essentials.pdf) | Linux Academy - Linux Essentials Notes | 
 | IT Business Analysis | [Business Write-up Sample](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/IT_Business%20Analysis%20Doc%20-%20EDI_sample%20(2).pdf) | EDI technology write-up | 
 | IT Business Analysis | [IT Business Analysis Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Business_Analysis_Training.pdf) | Best practices for liaisoning with business/customer partners | 
@@ -27,8 +29,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
-| TryHAckMe | [THM-PreSecurity Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
-| TryHackMe | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics | 
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
