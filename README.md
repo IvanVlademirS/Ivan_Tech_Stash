@@ -42,6 +42,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | ✔ | **AWS-SAA**, *pass 7/24/21* | [SAA T-Dojo Guide](https://tutorialsdojo.com/aws-certified-solutions-architect-associate-saa-c02/) | [AWS-SAA Badge](https://www.credly.com/badges/19d348f4-d1d7-4509-9b8c-6823652cb2e0/public_url) | Used AC Course, YouTube, Whitepapers |
 | ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP T-Dojo Guide](https://tutorialsdojo.com/aws-certified-cloud-practitioner/) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used YouTube |
 | ✔ | **CCSK**, *pass 01/08/2022* | [CCSK Bundle](https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle) | [CCSK Badge](https://www.credly.com/badges/1efd7725-9695-4b01-b966-9c3beb91f109/public_url) | Used CSSK Bundle with work Voucher |
+| ✔ | **AZ-900**, *pass 03/7/22* | [Azure Training](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)| [AZ-900 Badge](https://www.credly.com/badges/184acee8-6906-4e26-9e93-ccbe016dfdb8/public_url) | Used Microsoft Free Training and Free Voucher |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
