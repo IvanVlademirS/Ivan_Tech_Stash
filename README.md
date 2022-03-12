@@ -43,7 +43,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | ✔ | **AWS-CCP**, *pass 6/16/21* | [CCP T-Dojo Guide](https://tutorialsdojo.com/aws-certified-cloud-practitioner/) | [AWS-CCP Badge](https://www.credly.com/badges/3500aedf-d646-423b-b116-ffc8f5079f6c) | Used YouTube |
 | ✔ | **CCSK**, *pass 01/08/2022* | [CCSK Bundle](https://knowledge.cloudsecurityalliance.org/certificate-of-cloud-security-knowledge-foundation-exam-bundle) | [CCSK Badge](https://www.credly.com/badges/1efd7725-9695-4b01-b966-9c3beb91f109/public_url) | Used CSSK Bundle with work Voucher |
 | ✔ | **AZ-900**, *pass 03/7/22* | [Azure AZ900 Training](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)| [AZ-900 Badge](https://www.credly.com/badges/184acee8-6906-4e26-9e93-ccbe016dfdb8/public_url) | Used Microsoft Free Training and Free Voucher |
-| ✔ | **DP-900**, *pass 03/12 /22* | [Azure DP900 Training](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)| [DP-900 Badge](https://www.credly.com/badges/e6b06cda-b53a-46d5-b303-0dd954c313b1) | Used Microsoft Free Training and Free Voucher |
+| ✔ | **DP-900**, *pass 03/12/22* | [Azure DP900 Training](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)| [DP-900 Badge](https://www.credly.com/badges/e6b06cda-b53a-46d5-b303-0dd954c313b1) | Used Microsoft Free Training and Free Voucher |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
