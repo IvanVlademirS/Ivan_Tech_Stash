@@ -31,7 +31,6 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
-| Linux  | [LA Linux](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/LPI%20Linux%20Essentials.pdf) | Linux Academy - Linux Essentials Notes | 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
