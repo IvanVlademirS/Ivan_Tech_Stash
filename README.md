@@ -8,7 +8,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-|  Amazon | [LPs Mind Map](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/LPs.png) | Amazon Leadership Principles Notes, large png - use scroll wheel on bottom to view all or download file |
+|  Amazon | [LPs Mind Map](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/LPs.pdf) | Amazon Leadership Principles Notes, large pdf - use scroll wheel/zoom to view details or download file |
 | Blue Team | [InfoSec Enterprise Concepts](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices - Frameworks & InfoSec Guidance | 
 | Blue Team | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
 | Blue Team | [Simple Playbook](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Simple_BlueTeam_Playbook.pdf)| General & Practical BlueTeam steps to take during an incident/situation |
