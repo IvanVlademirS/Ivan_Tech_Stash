@@ -8,7 +8,6 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-|  Amazon | [LPs Mind Map](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/LPs.pdf) | Amazon Leadership Principles Notes, large pdf - use scroll wheel/zoom to view details or download file |
 | Core 5: Blue Team | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Blue Team Foundational Concepts to know | 
 | Core 4: Red Team | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Red Team Foundational Concepts to know | 
 | Core 3: Technical Security Concepts | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022.pdf) | Mindmap and Outline for Technical Security to know |
@@ -36,7 +35,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
-
+|  Amazon | [LPs Mind Map](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/LPs.pdf) | Amazon Leadership Principles Notes, large pdf - use scroll wheel/zoom to view details or download file |
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="left">  ☁️| Cloud Certifications </h3>
