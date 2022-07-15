@@ -26,6 +26,22 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
+<h3 align="left">  🧬| Architecture & Engineering </h3> 
+🟡click to expand table🟡
+</summary>
+<br>
+ 
+| Topic | Write-up | Description | 
+| -------- | -------- | -------- |
+| Core: Python | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Python Foundational Concepts to know |
+| System Design Overview | [Write-up](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/System%20Design.pdf) | System Design Foundational Concepts to know |
+| Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
+
+</details>
+
+
+<details>
+<summary>
 <h3 align="left">  ♻️| DevOps Write-ups  </h3> 
 🟢click to expand table🟢
 </summary>
@@ -37,22 +53,6 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Linux Overview | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Linux_Overview-min.pdf) | Using/Practical Linux |
 | CI CD Overview | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/CI%20CD%20Overview.pdf) | CI CD Foundational Concepts to know |
 | Git Intro | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Git_Intro.pdf) | Git Foundational Concepts to know |
-
-</details>
-
-
-<details>
-<summary>
-<h3 align="left">  🧬| Architecture & Engineering </h3> 
-🟡click to expand table🟡
-</summary>
-<br>
- 
-| Topic | Write-up | Description | 
-| -------- | -------- | -------- |
-| Core: Python | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Python Foundational Concepts to know |
-| System Design Overview | [Write-up](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/System%20Design.pdf) | System Design Foundational Concepts to know |
-| Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
 
 </details>
 
