@@ -1,5 +1,5 @@
 #### ⭐Welcome to my Tech Documentation Repo, ❗❗ReadMe:
-<pre><code>Scroll Down to view Tables: Foundations, DevOps, Engineering & Architecture, GRC, Blue & Red Team,
+<pre><code>Scroll Down to view Tables: Foundation, DevOps, Engineering & Architecture, GRC, Blue & Red Team, Certs
 All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s).</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
