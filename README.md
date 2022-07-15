@@ -4,8 +4,14 @@ Documentation, Notes, and Write-ups for my Tech Certifications, Experiences, Stu
 All links mainly point to files that are either hosted in Github or my Notion Notebook view-only page(s).</code></pre>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h3 align="left">  👨‍💻| IT Write-ups  </h3> 
 
+<details>
+<summary>
+<h3 align="left">  👨‍💻| IT Write-ups  </h3> 
+(click to expand table)
+</summary>
+<br>
+ 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
 | Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
@@ -37,10 +43,18 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
 |  Amazon | [LPs Mind Map](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/LPs.pdf) | Amazon Leadership Principles Notes, large pdf - use scroll wheel/zoom to view details or download file |
+
+</details>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">  ☁️| Cloud Certifications </h3>
-
+<details>
+<summary>
+<h3 align="left">  ☁️| Cloud Certifications Write-ups </h3>
+(click to expand table)
+</summary>
+<br>
+ 
 | Status | Certification | Notes | Badge Verification | Comments |
 | -------- | -------- | -------- | -------- | -------- |
 | ✔ | **SANS/GIAC GPCS**, *pass 03/1/22* | [SANS Info](https://www.sans.org/cyber-security-courses/public-cloud-security-aws-azure-gcp/)| [GPCS Badge](https://www.credly.com/badges/3724df22-c80d-4bcc-9eca-978d34bf11ee) | Used SANS provided materials, very fun Nimbus lab environment and course |
@@ -54,9 +68,16 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | ✔ | **AI-900**, *pass 03/14/22* | [Azure AI900 Training](https://docs.microsoft.com/en-us/learn/certifications/exams/ai-900)| [AI-900 Badge](https://www.credly.com/badges/fc4d2330-8c65-46b6-bff8-eff6ffe863b3) | Used Microsoft Free Training and Free Voucher |
 | ✔ | **DP-900**, *pass 03/12/22* | [Azure DP900 Training](https://docs.microsoft.com/en-us/learn/certifications/azure-data-fundamentals/)| [DP-900 Badge](https://www.credly.com/badges/e6b06cda-b53a-46d5-b303-0dd954c313b1) | Used Microsoft Free Training and Free Voucher |
 
+</details>
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">  🔐| InfoSec Certifications </h3> 
+<details>
+<summary>
+<h3 align="left">  🔐| InfoSec Certifications Write_ups </h3> 
+(click to expand table)
+</summary>
+<br>
 
 | Status | Certification | Notes | Badge Verification | Comments |
 |-------- | -------- | -------- | -------- | -------- |
@@ -64,6 +85,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | ✔ | **CISSP**, *pass 3/31/21* | [Write-up Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md)| [CISSP Badge](https://www.credly.com/badges/c8cc7ce4-f72e-4fb4-8688-701759b9ef54/public_url) | *request access to my CISSP google drive for additional resources, if needed* |
 | ✔ | **CISA**, *pass 1/30/20* | [Thor Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA_notes.pdf), [CISA Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISA%20Study%20Guide.pdf) | [CISA Badge](https://www.credly.com/badges/8e4ec363-b7ff-4735-99c4-06b30bc3737f/linked_in_profile) | Used Hemang Doshi, ISACA QA&E + Ofiicial Manual |
 | ✔ | **CDPSE**, *pass 3/30/21* | [CDPSE Study Plan](https://www.linkedin.com/pulse/how-i-prepared-my-cdpse-exam-veronica-rose-cisa-cdpse/) | [CDPSE Badge](https://www.credly.com/badges/75cb56f1-73b9-48a9-95a0-80d484c5cb79/public_url) | Used ISACA QA&E + Official Manual|
+
+</details>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
