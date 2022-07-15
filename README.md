@@ -6,7 +6,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  👨‍💻| Foundational Write-ups  </h3> 
+<h3 align="left">  👨‍💻| IT Foundational Write-ups  </h3> 
 🔘click to expand table🔘
 </summary>
 <br>
