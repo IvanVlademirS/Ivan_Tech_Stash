@@ -6,8 +6,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  👨‍💻| IT Foundational Write-ups  </h3> 
-<h4 align="left">🔘click to expand table🔘</h4>
+<h3 align="left">  👨‍💻| IT Foundational Write-ups 🔘click to expand table🔘  </h3> 
+
 </summary>
 <br>
 
@@ -26,8 +26,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  🧬| Architecture & Engineering </h3>
-<h4 align="left">🟡click to expand table🟡</h4>
+<h3 align="left">  🧬| Architecture & Engineering 🟡click to expand table🟡</h3>
+
 </summary>
 <br>
  
