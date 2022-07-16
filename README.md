@@ -23,6 +23,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -39,6 +40,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -60,6 +62,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -75,8 +78,11 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | CI CD Overview | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/CI%20CD%20Overview.pdf) | CI CD Foundational Concepts to know |
 | Git Intro | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Git_Intro.pdf) | Git Foundational Concepts to know |
 
+🟢[Linux Bootcamp Files](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/tree/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Linux_Bootcamp)
+
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -95,6 +101,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -113,6 +120,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
@@ -136,6 +144,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 </details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <details>
 <summary>
