@@ -74,11 +74,10 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
 | Core: Linux | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Linux%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Linux%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Linux Foundational Concepts to know |
+| Linux Bootcamp | [Files](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/tree/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Linux_Bootcamp) | Must know Linux |
 | Linux Overview | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Linux_Overview-min.pdf) | Using/Practical Linux |
 | CI CD Overview | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/CI%20CD%20Overview.pdf) | CI CD Foundational Concepts to know |
 | Git Intro | [Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Git_Intro.pdf) | Git Foundational Concepts to know |
-
-🟢[Linux Bootcamp Files](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/tree/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Linux_Bootcamp)
 
 </details>
 
