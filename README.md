@@ -6,7 +6,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  👨‍💻| IT Foundational Write-ups</h4> 
+<h4 align="left">  👨‍💻| IT Foundational Write-ups</h4>
 🔘click to expand🔘
 </summary>
 <br>
@@ -19,7 +19,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 | Google IT Training | [Operating Systems](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_2-Operating%20Systems%20Crash%20Course.pdf) | Google IT Crash Course - Operating Systems | 
 | Google IT Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
-| Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security | 
+| Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security |
 
 </details>
 
@@ -30,7 +30,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 🟡click to expand🟡
 </summary>
 <br>
- 
+
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
 | Core: Python | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Python Foundational Concepts to know |
@@ -42,11 +42,11 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  📑| Governance, Risk, Compliance (GRC) </h4> 
+<h4 align="left">  📑| Governance, Risk, Compliance (GRC)</h4>
 🟠click to expand🟠
 </summary>
 <br>
- 
+
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
 | GRC Documentation | [InfoSec Enterprise Guidance](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices - Frameworks & InfoSec Guidance | 
@@ -63,7 +63,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  ♻️| DevOps Write-ups  </h4> 
+<h4 align="left">  ♻️| DevOps Write-ups</h4>
 🟢click to expand🟢
 </summary>
 <br>
@@ -80,7 +80,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  💙| Blue Teaming Write-ups  </h4> 
+<h4 align="left">  💙| Blue Teaming Write-ups</h4>
 🔵click to expand🔵
 </summary>
 <br>
@@ -98,7 +98,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  ❣️| Red Teaming Write-ups  </h4> 
+<h4 align="left">  ❣️| Red Teaming Write-ups</h4>
 🔴click to expand🔴
 </summary>
 <br>
@@ -116,7 +116,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  ☁️| Cloud Certifications Write-ups </h4>
+<h4 align="left">  ☁️| Cloud Certifications Write-ups</h4>
 🟣click to expand🟣
 </summary>
 <br>
@@ -139,7 +139,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h4 align="left">  🔐| InfoSec Certifications Write_ups </h4> 
+<h4 align="left">  🔐| InfoSec Certifications Write_ups</h4>
 ⚫️click to expand⚫️
 </summary>
 <br>
