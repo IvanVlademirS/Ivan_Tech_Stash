@@ -42,8 +42,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  📑| Governance, Risk, Compliance (GRC) </h3> 
-🟠click to expand table🟠
+<h4 align="left">  📑| Governance, Risk, Compliance (GRC) </h4> 
+🟠click to expand🟠
 </summary>
 <br>
  
@@ -63,8 +63,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  ♻️| DevOps Write-ups  </h3> 
-🟢click to expand table🟢
+<h4 align="left">  ♻️| DevOps Write-ups  </h4> 
+🟢click to expand🟢
 </summary>
 <br>
  
@@ -80,8 +80,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  💙| Blue Teaming Write-ups  </h3> 
-🔵click to expand table🔵
+<h4 align="left">  💙| Blue Teaming Write-ups  </h4> 
+🔵click to expand🔵
 </summary>
 <br>
  
@@ -98,8 +98,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  ❣️| Red Teaming Write-ups  </h3> 
-🔴click to expand table🔴
+<h4 align="left">  ❣️| Red Teaming Write-ups  </h4> 
+🔴click to expand🔴
 </summary>
 <br>
  
@@ -116,8 +116,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  ☁️| Cloud Certifications Write-ups </h3>
-🟣click to expand table🟣
+<h4 align="left">  ☁️| Cloud Certifications Write-ups </h4>
+🟣click to expand🟣
 </summary>
 <br>
  
@@ -139,8 +139,8 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 <details>
 <summary>
-<h3 align="left">  🔐| InfoSec Certifications Write_ups </h3> 
-⚫️click to expand table⚫️
+<h4 align="left">  🔐| InfoSec Certifications Write_ups </h4> 
+⚫️click to expand⚫️
 </summary>
 <br>
 
