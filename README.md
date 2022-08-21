@@ -57,6 +57,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
+| Security Assessment & Testing | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Security%20Assessment%20%26%20Testing%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Security%20Assessment%20%26%20Testing%20OUTLINE.pdf) | Mindmap and Outline for Security Assessment & Testing Concepts to know |
 | Secure Development | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20OUTLINE.pdf) | Mindmap and Outline for Secure Software Development Concepts to know |
 | Core: Python | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Python Foundational Concepts to know |
 | Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
