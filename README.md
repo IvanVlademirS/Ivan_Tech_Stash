@@ -57,10 +57,10 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
-| System Design Overview | [Write-up](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/System%20Design%20(1)_compressed.pdf) | System Design Foundational Concepts to know |
 | Secure Development | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20OUTLINE.pdf) | Mindmap and Outline for Secure Software Development Concepts to know |
 | Core: Python | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Mindmap and Outline for Python Foundational Concepts to know |
 | Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
+| System Design Handnotes | [Write-up](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/System%20Design%20(1)_compressed.pdf) | System Design - May need to download PDF to view|
 
 </details>
 
