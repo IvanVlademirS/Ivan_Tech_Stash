@@ -34,6 +34,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
+| Security & Risk Management | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Domain%20Security%20%26%20Risk%20Management%20Ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Domain%20Security%20%26%20Risk%20Management%20Ivan%20notes%202022%20outline.pdf) | Mindmap and Outline for Security & Risk Mgmt Domains|
 | GRC Documentation | [InfoSec Enterprise Guidance](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/InfoSec-Enterprise-Guidelines.pdf) | Enterprise Best Practices - Frameworks & InfoSec Guidance | 
 | IT Diagramming | [Security Awareness InfoGraphic](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/SecurityAwareness-infographic_sample.pdf) | IT Security Awareness 1-pager, created in Visio | 
 | IT Diagramming | [IT Diagram Samples](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/diagramming-samples_ZOOM-IN-for-Detail.pdf) | Zoom in for Details, all created in Visio | 
