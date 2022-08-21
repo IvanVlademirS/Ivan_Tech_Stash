@@ -57,6 +57,7 @@ All links mainly point to files that are either hosted in Github or my Notion No
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
+| Asset Security | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Asset%20Security%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Asset%20Security%20OUTLINE.pdf) | Mindmap and Outline for Asset Security Concepts to know |
 | IAM | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20IAM%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20IAM%20OUTLINE.pdf) | Mindmap and Outline for IAM Concepts to know |
 | Security Assessment & Testing | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Security%20Assessment%20%26%20Testing%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Security%20Assessment%20%26%20Testing%20OUTLINE.pdf) | Mindmap and Outline for Security Assessment & Testing Concepts to know |
 | Secure Development | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Secure%20Software%20Development%20OUTLINE.pdf) | Mindmap and Outline for Secure Software Development Concepts to know |
