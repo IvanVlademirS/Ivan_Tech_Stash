@@ -7,26 +7,64 @@ Majority of links will point to files that are either hosted on my Github or Not
 
 <details>
 <summary>
-<h4 align="left">  👨‍💻| InfoSec General Write-ups</h4>
+<h4 align="left">  👨‍💻| TECH General Write-ups</h4>
 👉click to expand🔘
 </summary>
 <br>
 
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- | 
-| Core: Basic Security Concepts | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Security%20Concepts%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Security%20Concepts%20ivan%20notes%202022.pdf) | Mindmap and Outline for Security Foundational Concepts to know |
-| Core: Technical Security Concepts | [Linux101](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/B.%20Linux.md), [Security mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022%20map.pdf), [Security outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022.pdf) | Mindmap and Outline for Technical Security to know |
-| Google IT Training | [Networking](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_1-Networking%20Crash%20Course.pdf) | Google IT Crash Course - Networking | 
+| Core: Security Concepts | [Core Domains](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/InfoSec%20Certifications/CISSP%20-%20Pass%203%2031%2021%20.md), [Concpts mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Security%20Concepts%20ivan%20notes%202022%20map.pdf), [Concepts outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Security%20Concepts%20ivan%20notes%202022.pdf) | Domains, Mindmap and Outline for Security Foundational Concepts to know |
+| Core: Technical Security Concepts | [Security mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022%20map.pdf), [Security outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Technical%20Security%20Concepts%20-%20ivan%20notes%202022.pdf), [Core Linux](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/B.%20Linux.md),  | Mindmap and Outline for Technical Security to know |
+| Google IT Training | [Networking](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_1-Networking%20Crash%20Course.pdf), [OSI mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20OSI%20Model%20MAP.pdf), [OSI outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20OSI%20Model%20OUTLINE.pdf) | Google IT Crash Course - Networking | 
 | Google IT Training | [Operating Systems](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_2-Operating%20Systems%20Crash%20Course.pdf) | Google IT Crash Course - Operating Systems | 
-| Google IT Training | [SysAdmin](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
+| Google IT Training | [System Administration](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_3-System%20Administration%20Crash%20Course.pdf) | Google IT Crash Course - System Administration | 
 | Google IT Training | [Automation](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_4-IT%20Automation%20Crash%20Course_.pdf) | Google IT Crash Course - Automation (Ruby) | 
 | Google IT Training | [Security](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/GoogleTraining_5-IT%20Security%20Crash%20Course.pdf) | Google IT Crash Course - Information Security |
-| Networking Basics | [OSI mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20OSI%20Model%20MAP.pdf), [OSI outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20OSI%20Model%20OUTLINE.pdf) | Mindmap and Outline for Networking topics to know |
 
 </details>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<details>
+<summary>
+<h4 align="left">  ❣️| Red Teaming Write-ups</h4>
+👉click to expand🔴
+</summary>
+<br>
+ 
+| Topic | Write-up | Description | 
+| -------- | -------- | -------- |
+| Pentest | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
+| Python | [Basics for Pentesting](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/blob/master/MAIN/Python/C.%20Basic%20Python%20for%20Pentesting.md) | Python for RedTeaming |
+| Core Concepts | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Red Team Foundational Concepts to know | 
+| Wireless | [Overview Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Wireless%20Assessment%20Practical%20Notes.pdf) | Wireless Assessment Practical Notes & Prep |
+| THM | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics |  
+| EJPT | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
+
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<details>
+<summary>
+<h4 align="left">  💙| Blue Teaming Write-ups</h4>
+👉click to expand🔵
+</summary>
+<br>
+ 
+| Topic | Write-up | Description | 
+| -------- | -------- | -------- |
+| Core: Blue Team | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Blue Team Foundational Concepts to know | 
+| Enterprise Guidance | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
+| Network Security | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Network%20Security%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Network%20Security%20OUTLIJNE.pdf) | Mindmap and Outline for Network Security Concepts to know | 
+| Practical | [Simple Playbook](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Simple_BlueTeam_Playbook.pdf)| General & Practical BlueTeam steps to take during an incident/situation |
+| Lab notes | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense |
+| THM | [THM-PreSecurity](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
+
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>
 <h4 align="left">  📑| IT Governance, Risk, Compliance (GRC)</h4>
@@ -67,45 +105,6 @@ Majority of links will point to files that are either hosted on my Github or Not
 | Programming: Python | [basics](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/tree/master/MAIN/Python/1WK_Py), [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Python%20Foundations%20ivan%202022.pdf) | Basics, Mindmap, and Outline for Python Foundational Concepts to know |
 | Defensible Security Architecture | [core_topics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/GDSA_INDEX_ivan2022.pdf) | My SANS Defensible Security Architecture notes (GDSA) |
 | System Design Handnotes | [Write-up](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/System%20Design%20(1)_compressed.pdf) | System Design - May need to download PDF to view|
-
-</details>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<details>
-<summary>
-<h4 align="left">  💙| Blue Teaming Write-ups</h4>
-👉click to expand🔵
-</summary>
-<br>
- 
-| Topic | Write-up | Description | 
-| -------- | -------- | -------- |
-| Core: Blue Team | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Blue%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Blue Team Foundational Concepts to know | 
-| Enterprise Guidance | [Network Defense](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/General%20Network%20Defense%20(1).pdf)| General & Practical Network Defense Best Practices |
-| Network Security | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Network%20Security%20MAP.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/domain%20Network%20Security%20OUTLIJNE.pdf) | Mindmap and Outline for Network Security Concepts to know | 
-| Practical | [Simple Playbook](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Simple_BlueTeam_Playbook.pdf)| General & Practical BlueTeam steps to take during an incident/situation |
-| Lab notes | [NetDef_Labs](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/networkdefense-labs.pdf) | Hands-on Lab: Network Defense |
-| Lab notes | [THM-PreSecurity](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-PreSecurity_.pdf) | TryHackMe - PreSecurity Learning Path: Networking, Web, Linux, Windows | 
-
-</details>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-<details>
-<summary>
-<h4 align="left">  ❣️| Red Teaming Write-ups</h4>
-👉click to expand🔴
-</summary>
-<br>
- 
-| Topic | Write-up | Description | 
-| -------- | -------- | -------- |
-| Core: Red Team | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Red Team Foundational Concepts to know | 
-| Pentest | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
-| Pentest | [Wireless Pentesting](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Wireless%20Assessment%20Practical%20Notes.pdf) | Wireless Assessment Practical Notes & Prep |
-| Labs | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics |  
-| Labs | [Pentest_Labs1](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/PentestingLabs1.pdf) | Hands-on Lab: Pentesting Fundamentals | 
 
 </details>
 
