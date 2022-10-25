@@ -1,7 +1,7 @@
 #### ⭐Welcome to my Tech Documentation Repo
 📌ReadMe:
-<pre><code>Scroll Down to view topics: Foundation, DevOps, Engineering & Architecture, GRC, Blue & Red Team, Certs
-Majority of links will point to files that are either hosted on my Github or Notion.</code></pre>
+Scroll Down to view my write-ups/notes on these topics: IT Foundation, DevOps, Engineering & Architecture, GRC, Blue & Red Team, Certs
+Majority of links will point to files that are either hosted on my Github or Notion.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
