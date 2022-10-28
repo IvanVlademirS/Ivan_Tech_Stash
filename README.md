@@ -34,8 +34,8 @@ Majority of links will point to files that are either hosted on my Github or Not
  
 | Topic | Write-up | Description | 
 | -------- | -------- | -------- |
-| Pentest | [Pentesting Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
-| Python | [Basics for Pentesting](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/blob/master/MAIN/Python/C.%20Basic%20Python%20for%20Pentesting.md) | Python for RedTeaming |
+| Pentest | [Basics](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Ethical%20Hacking_Pentest%20Basics.pdf) | Pentest Basics - Using Metasploitable and DVWA Write-up |
+| Python | [Basics](https://github.com/IvanVlademirS/Ivan_Software_Engineering_Stash/blob/master/MAIN/Python/C.%20Basic%20Python%20for%20Pentesting.md) | Python for RedTeaming |
 | Core Concepts | [mindmap](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022%20map.pdf), [outline](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/Red%20Team%20%20ivan%20notes%202022.pdf) | Mindmap and Outline for Red Team Foundational Concepts to know | 
 | Wireless | [Overview Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/IT%20General%20Write-Ups/Wireless%20Assessment%20Practical%20Notes.pdf) | Wireless Assessment Practical Notes & Prep |
 | THM | [THM-CompleteBeginner Notes](https://github.com/IvanVlademirS/Ivan_Tech_Documentation/blob/main/Tech_Doc_Repo/THM-CompleteBeginner_.pdf) | TryHackMe - Complete Beginner Learning Path: Exploitation Basics, Cryptography, Privesc, Shell, Linux, Win, Web, Pentesting Basics |  
