@@ -1,6 +1,6 @@
 #### ⭐Welcome to my Tech Documentation Repo
 📌ReadMe:
-Scroll Down to view my write-ups/notes > click links to view content.  
+Scroll down to view my tech write-ups/notes > click links to view content.  
 Majority of links will point to files that are either hosted on my Github or Notion.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
