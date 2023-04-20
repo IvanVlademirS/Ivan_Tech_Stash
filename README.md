@@ -8,8 +8,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  👨‍💻| TECH General Write-ups</h4>
-👉click to expand🔘
+<h4 align="left">  👨‍💻 | TECH General Write-ups</h4>
+👉click to expand 🔘
 </summary>
 <br>
 
@@ -28,8 +28,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  ❣️| Red Teaming Write-ups</h4>
-👉click to expand🔴
+<h4 align="left">  ❣️ | Red Teaming Write-ups</h4>
+👉click to expand 🔴
 </summary>
 <br>
  
@@ -49,8 +49,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  💙| Blue Teaming Write-ups</h4>
-👉click to expand🔵
+<h4 align="left">  💙 | Blue Teaming Write-ups</h4>
+👉click to expand 🔵
 </summary>
 <br>
  
@@ -68,8 +68,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details>
 <summary>
-<h4 align="left">  📑| IT Governance, Risk, Compliance (GRC)</h4>
-👉click to expand🟠
+<h4 align="left">  📑 | IT Governance, Risk, Compliance (GRC)</h4>
+👉click to expand 🟠
 </summary>
 <br>
 
@@ -91,8 +91,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  🧬| Architecture & Engineering</h4>
-👉click to expand🟡
+<h4 align="left">  🧬 | Architecture & Engineering</h4>
+👉click to expand 🟡
 </summary>
 <br>
 
@@ -113,8 +113,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  ♻️| DevOps Write-ups</h4>
-👉click to expand🟢
+<h4 align="left">  ♻️ | DevOps Write-ups</h4>
+👉click to expand 🟢
 </summary>
 <br>
  
@@ -130,8 +130,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  ☁️| Cloud Certifications Write-ups</h4>
-👉click to expand🟣
+<h4 align="left">  ☁️ | Cloud Certifications Write-ups</h4>
+👉click to expand 🟣
 </summary>
 <br>
  
@@ -154,8 +154,8 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  🔐| InfoSec Certifications Write_ups</h4>
-👉click to expand⚫️
+<h4 align="left">  🔐 | InfoSec Certifications Write_ups</h4>
+👉click to expand ⚫️
 </summary>
 <br>
 
