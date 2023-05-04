@@ -1,8 +1,9 @@
 #### ⭐Welcome to my Tech Documentation Repo
 📌 ReadMe:
 Scroll down to view my tech write-ups/notes > click links to view content.  
+☁️ All things CLOUD will be in this repo: 👉 [Ivan Cloud Stash](https://github.com/IvanVlademirS/Ivan_Cloud_Stash)   
+💡 *NOTE: download mindmap PDF(s) for better quality/zoom*   
 💡 *Majority of links will point to files that are either hosted on my Github or Notion.*  
-☁️ All things CLOUD will be in this repo: 👉 [Ivan Cloud Stash](https://github.com/IvanVlademirS/Ivan_Cloud_Stash)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
