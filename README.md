@@ -30,7 +30,7 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  ❣️ | Red Teaming Write-ups</h4>
+<h4 align="left">  ❣️ | Red Teaming </h4>
 👉click to expand 🔴
 </summary>
 <br>
@@ -51,7 +51,7 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  💙 | Blue Teaming Write-ups</h4>
+<h4 align="left">  💙 | Blue Teaming </h4>
 👉click to expand 🔵
 </summary>
 <br>
@@ -115,7 +115,7 @@ Scroll down to view my tech write-ups/notes > click links to view content.
 
 <details>
 <summary>
-<h4 align="left">  ♻️ | DevOps Write-ups</h4>
+<h4 align="left">  ♻️ | DevOps </h4>
 👉click to expand 🟢
 </summary>
 <br>
